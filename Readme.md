@@ -1,4 +1,3 @@
-Huicheng Liu 20071349 17hl7@queensu.ca
 1.Our code runs perfectly on ubuntu 16.04 and 17.10 operating system with python 3.6.
 
 2.  Requirements has been listed in the "requirements.txt" file.(I'm afraid it will be a little bit troublesome to get the tensorflow GPU version configured. It might take a long time to run it with CPU) Type    pip3 install -r requirements.txt 
